@@ -1,0 +1,11 @@
+[HelloPerson]
+hash = "sha1-5b49bfdad81fedaeefb224b0ffc2acc58b09cff5"
+other = "Hello {{.Name}}"
+
+[HelloPerson1]
+hash = "sha1-f381d3b4a05bfb292381ae7de40d5d71611741c7"
+other = "Hello {{.Name}} 1"
+
+[HelloWorld]
+hash = "sha1-3f014e4f5901b1e6536f338b9459179b0ca74686"
+other = "Hello {{.WorldName}}"

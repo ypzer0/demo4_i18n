@@ -1,0 +1,2 @@
+HelloPerson = "你好 {{.Name}}"
+HelloPerson1 = "你好 {{.Name}} 1"
